@@ -105,6 +105,7 @@ This dashboard demonstrates how business data can be transformed into actionable
 It showcases strong data visualization, KPI tracking, and business-oriented analysis suitable for Data Analyst roles.
 
 ---
+<img width="1296" height="743" alt="image" src="https://github.com/user-attachments/assets/2bef2b5c-4d8c-4df1-9dab-e2add7e4975e" />
 
 ## 👤 Author
 
